@@ -1,6 +1,4 @@
 # exercise-repo
 
-CREATING CONFLICTS IN BASH
-
-GITHUB PREPARING FOR CONFLICTS FROM BASH
+committing changes from branch
 
